@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": "``` npm create astro@latest -- --template basics ```",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
